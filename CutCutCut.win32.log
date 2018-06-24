@@ -1,0 +1,10 @@
+﻿生成启动时间为 2018/6/24 18:30:17。
+     1>项目“F:\Projects\Fruit\proj.win32\CutCutCut.win32.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug.win32\) contains files shared from another project (CutCutCut.win32.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         CutCutCut.win32.vcxproj -> F:\Projects\Fruit\proj.win32\Debug.win32\CutCutCut.exe
+     1>已完成生成项目“F:\Projects\Fruit\proj.win32\CutCutCut.win32.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.07
